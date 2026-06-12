@@ -1,1 +1,2 @@
 # technology-fellowship
+My name is Julian, and in this 12 week technology based fellowship I will be exploring and mastering several topics related to creating infrastructure with practical enterprise technology, learning the culture and expectations of large-scale business pratices and it's language, and understanding the tools and mindset needed to go from a customer, to an operator, and finally an engineer.
